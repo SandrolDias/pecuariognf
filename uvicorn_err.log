@@ -1,0 +1,8 @@
+INFO:     Started server process [15720]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+C:\Projeto\Fazenda Morro Branco\Code\backend\services\data_cleaner.py:80: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  df["data_pesagem"] = pd.to_datetime(col, errors="coerce", dayfirst=True)
+C:\Projeto\Fazenda Morro Branco\Code\backend\services\data_cleaner.py:80: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  df["data_pesagem"] = pd.to_datetime(col, errors="coerce", dayfirst=True)

@@ -1,0 +1,556 @@
+INFO:     127.0.0.1:63157 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63161 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63170 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63175 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63180 - "GET /analyze HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:59946 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59946 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54947 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54947 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61101 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63371 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59095 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58924 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50692 - "GET /records/14250d64-fe59-45d7-94e0-4edc46f7140a HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50692 - "GET /records/14250d64-fe59-45d7-94e0-4edc46f7140a HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53417 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65176 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52274 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52282 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52271 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52287 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53194 - "GET /records/a7c5e4dc-3a72-48ab-a8d4-7b7d32b1e40b HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53199 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53199 - "GET /records/3128f47a-b7b5-43c6-a07e-469cd9faacce HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:61822 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61822 - "GET /records/a05b6702-6e95-4537-96c8-007278534c1e HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52697 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52697 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52697 - "GET /records/a05b6702-6e95-4537-96c8-007278534c1e HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50568 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50568 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56668 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50568 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53355 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53355 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51990 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51990 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49822 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49822 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49822 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55718 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55718 - "GET /validations HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:53268 - "GET /records/a05b6702-6e95-4537-96c8-007278534c1e HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53268 - "GET /records/a05b6702-6e95-4537-96c8-007278534c1e HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53502 - "GET /records/3128f47a-b7b5-43c6-a07e-469cd9faacce HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:64557 - "GET /records/3128f47a-b7b5-43c6-a07e-469cd9faacce HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49229 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51163 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63918 - "GET /dashboard?start_date=2026-02-06&end_date=2026-04-28 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62079 - "GET /records/5272708b-b979-4faf-88bb-59042f61d8c8 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:62079 - "GET /records/5272708b-b979-4faf-88bb-59042f61d8c8 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56361 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56361 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56361 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58150 - "GET /dashboard?start_date=2026-02-06&end_date=2026-04-28 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54691 - "GET /debug-store HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64623 - "GET /records/5152604e-07f5-4dee-963b-1054fe4884fc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50270 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50273 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50275 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50277 - "GET /records/4659d8d5-76b9-4ad0-a4f2-36504db38ad0 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50280 - "GET /records/4659d8d5-76b9-4ad0-a4f2-36504db38ad0 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:62224 - "GET /dashboard?start_date=2026-02-06&end_date=2026-04-28&categoria_calculada=Categoria+n%C3%A3o+identificada HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:54061 - "GET /dashboard?start_date=2026-02-06&end_date=2026-04-28 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57221 - "GET /dashboard?start_date=2026-02-06&end_date=2026-04-28&categoria_calculada=Vaca+37%2B HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:54084 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55918 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52037 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64820 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56691 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50803 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61617 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57567 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55241 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49198 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59398 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49979 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55241 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49198 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55241 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49979 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49344 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52078 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61830 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55255 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64514 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64514 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60530 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60530 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49286 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49289 - "GET /data?page=1&page_size=5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49291 - "GET /data?page=1&page_size=3&search=Compra HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49301 - "GET /data?page=1&page_size=3&search=Compra HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53416 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53416 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65420 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52321 - "POST /upload HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52321 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52321 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62876 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59532 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60899 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55852 - "GET /records/5b6c8a23-56ef-4a91-be78-7eaf2b92431c HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55852 - "GET /records/5b6c8a23-56ef-4a91-be78-7eaf2b92431c HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55852 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:57537 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:62084 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:59069 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59712 - "GET /records/0997c4d7-0396-4d13-bcab-82edb15054ec HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59712 - "GET /records/0997c4d7-0396-4d13-bcab-82edb15054ec HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59712 - "GET /records/0997c4d7-0396-4d13-bcab-82edb15054ec HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59712 - "GET /records/0997c4d7-0396-4d13-bcab-82edb15054ec HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53799 - "GET /records/0997c4d7-0396-4d13-bcab-82edb15054ec HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53799 - "GET /records/0997c4d7-0396-4d13-bcab-82edb15054ec HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53799 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:60064 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:50116 - "POST /upload HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50116 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50116 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63815 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55449 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:63772 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:59658 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:60441 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:59341 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62543 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57450 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55615 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51213 - "GET /dashboard?categoria_calculada=Vaca+37%2B HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53805 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61130 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:50621 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:49709 - "GET /export HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57898 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:57241 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:52289 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:64855 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63662 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:52696 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:62495 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:55537 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55537 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55537 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62953 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56930 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62704 - "GET /records/150e5bae-edb5-4b3a-bf83-b3ec942b379d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62704 - "GET /records/150e5bae-edb5-4b3a-bf83-b3ec942b379d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65226 - "GET /records/7edac67d-34fb-4273-929e-f29fc8832486 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65226 - "GET /records/7edac67d-34fb-4273-929e-f29fc8832486 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58051 - "GET /records/de054668-eec1-48c5-8677-0ffcd733d9fc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58051 - "GET /records/de054668-eec1-48c5-8677-0ffcd733d9fc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54023 - "GET /records/7edac67d-34fb-4273-929e-f29fc8832486 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54023 - "GET /records/7edac67d-34fb-4273-929e-f29fc8832486 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59719 - "GET /records/7edac67d-34fb-4273-929e-f29fc8832486 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63190 - "GET /records/7edac67d-34fb-4273-929e-f29fc8832486 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60106 - "GET /records/7edac67d-34fb-4273-929e-f29fc8832486 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60106 - "GET /records/7edac67d-34fb-4273-929e-f29fc8832486 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50625 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:52328 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 500 Internal Server Error
+  INFO:     127.0.0.1:59114 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50346 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50351 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60029 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60029 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60358 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60029 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60029 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54422 - "POST /upload HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54422 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58543 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54422 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54422 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52097 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64919 - "GET /records/11efa0d5-8ec6-463e-a066-39687fd675a4 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64919 - "GET /records/11efa0d5-8ec6-463e-a066-39687fd675a4 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61282 - "GET /records/74c60bcc-28c1-4654-a183-305894f59e98 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61282 - "GET /records/74c60bcc-28c1-4654-a183-305894f59e98 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62531 - "GET /records/74c60bcc-28c1-4654-a183-305894f59e98 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62531 - "GET /records/74c60bcc-28c1-4654-a183-305894f59e98 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54677 - "OPTIONS /records/74c60bcc-28c1-4654-a183-305894f59e98 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54677 - "PUT /records/74c60bcc-28c1-4654-a183-305894f59e98 HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:53069 - "GET /records/946f4b12-5c20-42da-a945-174e2d8d8102 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53069 - "GET /records/946f4b12-5c20-42da-a945-174e2d8d8102 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49613 - "GET /records/cb6d0d41-8d9a-4c11-8e8a-2d4b11c274e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49613 - "GET /records/cb6d0d41-8d9a-4c11-8e8a-2d4b11c274e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61320 - "OPTIONS /records/cb6d0d41-8d9a-4c11-8e8a-2d4b11c274e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61320 - "PUT /records/cb6d0d41-8d9a-4c11-8e8a-2d4b11c274e3 HTTP/1.1" 500 Internal Server Error
+ INFO:     127.0.0.1:55793 - "GET /records/4a7d7ca5-8f42-4169-8b26-a53b32649e78 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55793 - "GET /records/4a7d7ca5-8f42-4169-8b26-a53b32649e78 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64363 - "POST /upload HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64363 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58502 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64363 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64363 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57582 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62151 - "GET /records/08b293fe-759b-4981-b4fc-0f02ae0dd906 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62151 - "GET /records/08b293fe-759b-4981-b4fc-0f02ae0dd906 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58184 - "OPTIONS /records/08b293fe-759b-4981-b4fc-0f02ae0dd906 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58184 - "PUT /records/08b293fe-759b-4981-b4fc-0f02ae0dd906 HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:64681 - "PUT /records/08b293fe-759b-4981-b4fc-0f02ae0dd906 HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:58317 - "GET /records/08b293fe-759b-4981-b4fc-0f02ae0dd906 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58317 - "GET /records/08b293fe-759b-4981-b4fc-0f02ae0dd906 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57397 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57397 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55645 - "GET /data?page=1&page_size=100&sort_by=peso&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55645 - "GET /data?page=1&page_size=100&sort_by=peso&sort_order=desc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58887 - "GET /data?page=1&page_size=100&sort_by=peso&sort_order=desc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58887 - "GET /data?page=1&page_size=100&sort_by=peso&sort_order=desc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56137 - "OPTIONS /records/75a251a0-25f3-43cb-803b-7e9c5b3143bd HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56137 - "PUT /records/75a251a0-25f3-43cb-803b-7e9c5b3143bd HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56137 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56137 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56137 - "GET /data?page=1&page_size=100&sort_by=peso&sort_order=desc HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:63463 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63463 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63348 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63348 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57054 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59477 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59477 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49758 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49758 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49984 - "POST /upload HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49984 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54356 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49984 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49984 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51594 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63106 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63106 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53819 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53819 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53819 - "GET /data?page=1&page_size=100&sort_by=peso&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53819 - "GET /data?page=1&page_size=100&sort_by=peso&sort_order=desc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54503 - "POST /upload HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54503 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54503 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54503 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65464 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65464 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61423 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61423 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61423 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57252 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61502 - "POST /upload HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61502 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61502 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61502 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61502 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56393 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50123 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50123 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50123 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50123 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58735 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58735 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58735 - "GET /data?page=1&page_size=100&sort_by=peso&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58735 - "GET /data?page=1&page_size=100&sort_by=peso&sort_order=desc HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:56886 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53323 - "POST /upload HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53323 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56350 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53323 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65255 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65072 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65072 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58065 - "GET /records/84bd8cec-050f-4f51-9aff-20bd7bff07b3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58065 - "GET /records/84bd8cec-050f-4f51-9aff-20bd7bff07b3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56286 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58989 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58989 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65018 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52277 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63005 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52277 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54533 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54533 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50601 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50601 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50601 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59595 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59292 - "GET /records/84bd8cec-050f-4f51-9aff-20bd7bff07b3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59292 - "GET /records/84bd8cec-050f-4f51-9aff-20bd7bff07b3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60224 - "GET /dashboard?categoria_calculada=Garrote HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62948 - "GET /dashboard?categoria_calculada=Bezerro HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52356 - "GET /dashboard?categoria_calculada=Boi HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56246 - "GET /dashboard?start_date=2026-02-06&end_date=2026-04-28&categoria_calculada=Boi HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64480 - "GET /dashboard?start_date=2026-02-06&end_date=2026-04-28&categoria_calculada=Vaca+37%2B HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:57138 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64262 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55093 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64285 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56415 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61663 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64285 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64285 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64285 - "GET /data?page=1&page_size=10000 HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:59267 - "GET /data?page=1&page_size=10000 HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:59272 - "GET /data?page=1&page_size=1 HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:55666 - "GET /data?page=1&page_size=10000 HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:64739 - "GET /data?page=1&page_size=10000 HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:64739 - "GET /data?page=1&page_size=10000 HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:54998 - "GET /data?page=1&page_size=5300 HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:52680 - "GET /data?page=1&page_size=5300 HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:52677 - "GET /data?page=1&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52677 - "GET /data?page=2&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52677 - "GET /data?page=3&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52677 - "GET /data?page=4&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52677 - "GET /data?page=5&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52677 - "GET /data?page=6&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52677 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52677 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52677 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52677 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52677 - "GET /data?page=1&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49907 - "GET /data?page=1&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52677 - "GET /data?page=2&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59685 - "GET /data?page=2&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51580 - "GET /data?page=3&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51580 - "GET /data?page=4&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59685 - "GET /data?page=3&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59685 - "GET /data?page=5&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51580 - "GET /data?page=4&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59685 - "GET /data?page=6&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51580 - "GET /data?page=5&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51580 - "GET /data?page=6&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51585 - "GET /data?page=1&page_size=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60198 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60198 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64571 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55261 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49909 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49909 - "GET /data?page=1&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55261 - "GET /data?page=1&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49909 - "GET /data?page=2&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55261 - "GET /data?page=2&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49909 - "GET /data?page=3&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55261 - "GET /data?page=3&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49909 - "GET /data?page=4&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55261 - "GET /data?page=4&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49909 - "GET /data?page=5&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55261 - "GET /data?page=5&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49909 - "GET /data?page=6&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55261 - "GET /data?page=6&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52933 - "GET /dashboard?start_date=2026-02-06&end_date=2026-04-28&categoria_calculada=Vaca+37%2B&origem=H%C3%A9lio+Alves+Da+Silva HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:65305 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62189 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51167 - "POST /upload HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51167 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56284 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51167 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56284 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54913 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50769 - "GET /records/3858ee23-30b2-4dee-85a0-fc281d6873ec HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50769 - "GET /records/3858ee23-30b2-4dee-85a0-fc281d6873ec HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:62739 - "GET /records/b6f45362-d47c-4d05-92b6-e990d8bf5d73 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:62739 - "GET /records/b6f45362-d47c-4d05-92b6-e990d8bf5d73 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53694 - "GET /records/b6f45362-d47c-4d05-92b6-e990d8bf5d73 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53694 - "GET /records/b6f45362-d47c-4d05-92b6-e990d8bf5d73 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53694 - "GET /records/b6f45362-d47c-4d05-92b6-e990d8bf5d73 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53694 - "GET /records/b6f45362-d47c-4d05-92b6-e990d8bf5d73 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52690 - "GET /records/e7fb7324-0f9b-4f1a-a1aa-eba9159124a4 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52690 - "GET /records/e7fb7324-0f9b-4f1a-a1aa-eba9159124a4 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52128 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52128 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62982 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62982 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58651 - "GET /records/b6f45362-d47c-4d05-92b6-e990d8bf5d73 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58651 - "GET /records/b6f45362-d47c-4d05-92b6-e990d8bf5d73 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59193 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59193 - "GET /data?page=1&page_size=100&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59193 - "GET /data?page=1&page_size=100&sort_by=id&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59193 - "GET /data?page=1&page_size=100&search=681&sort_by=id&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52750 - "GET /data?page=1&page_size=100&search=681&sort_by=peso&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50927 - "GET /records/abf40904-a722-4b53-8b9a-aca9abc73440 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50927 - "GET /records/abf40904-a722-4b53-8b9a-aca9abc73440 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53580 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51269 - "GET /data?page=1&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51269 - "GET /data?page=1&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51269 - "GET /data?page=2&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52287 - "GET /data?page=2&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51269 - "GET /data?page=3&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52287 - "GET /data?page=3&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51269 - "GET /data?page=4&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52287 - "GET /data?page=4&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51269 - "GET /data?page=5&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52287 - "GET /data?page=5&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51269 - "GET /data?page=6&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52287 - "GET /data?page=6&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51538 - "GET /dashboard?categoria_calculada=Vaca HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:54149 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51987 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63290 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54922 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54922 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58501 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54922 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57382 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52460 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52460 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56101 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49548 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49548 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60962 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49548 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56590 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52767 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59190 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59190 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65455 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52035 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52035 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54981 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54981 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62045 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62045 - "GET /data?page=1&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62045 - "GET /data?page=1&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62045 - "GET /data?page=2&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56398 - "GET /data?page=2&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62045 - "GET /data?page=3&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56398 - "GET /data?page=3&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62045 - "GET /data?page=4&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56398 - "GET /data?page=4&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62045 - "GET /data?page=5&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56398 - "GET /data?page=5&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62045 - "GET /data?page=6&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56398 - "GET /data?page=6&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59919 - "GET /dashboard?categoria_calculada=Garrote HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57279 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62255 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62255 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50443 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62255 - "GET /filters HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:51483 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59434 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59434 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58870 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59434 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63840 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64749 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64749 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64749 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65502 - "GET /dashboard?categoria_calculada=Garrote HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60348 - "GET /dashboard?categoria_calculada=Bezerro HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:54416 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58356 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58360 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65385 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:65390 - "GET /docs HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:50402 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50695 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50695 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62164 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55576 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65014 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59259 - "GET /dashboard?categoria_calculada=Bezerro HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62209 - "GET /dashboard?categoria_calculada=Vaca HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62310 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52643 - "GET /dashboard?categoria_calculada=Garrote HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55124 - "GET /data?page_size=5000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55128 - "GET /data?page_size=5000&page=2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55515 - "GET /data?page_size=1000&page=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55518 - "GET /dashboard HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:56318 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56021 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56021 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65287 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56021 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61119 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57134 - "GET /dashboard?categoria_calculada=Garrote HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56026 - "GET /dashboard?categoria_calculada=Vaca+37%2B HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58908 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61007 - "GET /dashboard?categoria_calculada=Garrote HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52083 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65286 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60895 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60895 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61951 - "GET /data?page=1&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61951 - "GET /data?page=1&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63109 - "GET /data?page=2&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61951 - "GET /data?page=2&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63109 - "GET /data?page=3&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61951 - "GET /data?page=3&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63109 - "GET /data?page=4&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63109 - "GET /data?page=5&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61951 - "GET /data?page=4&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63109 - "GET /data?page=6&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61951 - "GET /data?page=5&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61951 - "GET /data?page=6&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65286 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58403 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58403 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54677 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58403 - "GET /filters HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:54664 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64715 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49668 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49677 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49685 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49208 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53322 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53322 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53953 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53322 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52333 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52333 - "GET /data?page=1&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64203 - "GET /data?page=1&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52333 - "GET /data?page=2&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64203 - "GET /data?page=2&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52333 - "GET /data?page=3&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64203 - "GET /data?page=3&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52333 - "GET /data?page=4&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64203 - "GET /data?page=4&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52333 - "GET /data?page=5&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64203 - "GET /data?page=5&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52333 - "GET /data?page=6&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52333 - "GET /data?page=6&page_size=1000 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54281 - "GET /dashboard HTTP/1.1" 200 OK
+  INFO:     127.0.0.1:52588 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60395 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60395 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62003 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60395 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58281 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49896 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65083 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65083 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49706 - "GET /analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62735 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62735 - "GET /validations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57945 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52677 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64019 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57647 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52677 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57945 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57647 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64019 - "GET /filters HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:62563 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62563 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62563 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62563 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65374 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52368 - "GET /dashboard?categoria_calculada=Bezerro,Garrote HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55368 - "GET /dashboard?categoria_calculada=Vaca,Vaca+37%2B HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63969 - "GET /dashboard?categoria_calculada=Bezerro,Boi,Garrote,Novilha,Vaca,Vaca+37%2B HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59919 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59919 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54489 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54489 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54489 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57410 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59476 - "GET /filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57410 - "GET /find-file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59476 - "GET /filters HTTP/1.1" 200 OK
