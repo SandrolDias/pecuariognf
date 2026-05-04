@@ -26,13 +26,6 @@ app = FastAPI(
     version="3.0.0",
     description="API para análise de movimentação de gado.",
 )
-@app.get("/versao")
-async def versao():
-    return {"versao": "teste-1"}
-
-@app.get("/versao")
-async def versao():
-    return {"versao": "v4-teste-deploy"}
 
 app.add_middleware(
     CORSMiddleware,
@@ -41,30 +34,36 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-# — linha 33 fecha o middleware
 
-# Servir arquivos estáticos do frontend
-frontend_dist = "/home/site/wwwroot/frontend/dist"
-if os.path.exists(frontend_dist):
-    app.mount("/assets", StaticFiles(directory=os.path.join(frontend_dist, "assets")), name="assets")
+# ── Frontend (React build) ───────────────────────────────────────────────────
+FRONTEND_DIST = "/home/site/wwwroot/frontend/dist"
+
+if os.path.exists(os.path.join(FRONTEND_DIST, "assets")):
+    app.mount(
+        "/assets",
+        StaticFiles(directory=os.path.join(FRONTEND_DIST, "assets")),
+        name="assets",
+    )
+
+@app.get("/versao")
+async def versao():
+    return {"versao": "v6-final"}
 
 @app.get("/check-frontend")
 async def check_frontend():
-    path = "/home/site/wwwroot/frontend/dist"
     return {
-        "exists": os.path.exists(path),
-        "files": os.listdir(path) if os.path.exists(path) else [],
-        "wwwroot": os.listdir("/home/site/wwwroot")
+        "frontend_dist": FRONTEND_DIST,
+        "exists": os.path.exists(FRONTEND_DIST),
+        "files": os.listdir(FRONTEND_DIST) if os.path.exists(FRONTEND_DIST) else [],
+        "wwwroot": os.listdir("/home/site/wwwroot") if os.path.exists("/home/site/wwwroot") else [],
     }
 
 @app.get("/")
-async def serve_frontend():
-    index = "/home/site/wwwroot/frontend/dist/index.html"
+async def serve_root():
+    index = os.path.join(FRONTEND_DIST, "index.html")
     if os.path.exists(index):
         return FileResponse(index)
-    return {"detail": "Frontend não encontrado"}
-
-# — linha 35 começa UPLOAD_DIR
+    return {"detail": "Frontend não encontrado", "frontend_dist": FRONTEND_DIST}
 
 UPLOAD_DIR = Path(__file__).parent / "uploads"
 OUTPUT_DIR = Path(__file__).parent / "outputs"
