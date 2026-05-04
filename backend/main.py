@@ -26,6 +26,9 @@ app = FastAPI(
     version="3.0.0",
     description="API para análise de movimentação de gado.",
 )
+@app.get("/versao")
+async def versao():
+    return {"versao": "v4-teste-deploy"}
 
 app.add_middleware(
     CORSMiddleware,
