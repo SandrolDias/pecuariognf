@@ -41,20 +41,21 @@ frontend_dist = "/home/site/wwwroot/frontend/dist"
 if os.path.exists(frontend_dist):
     app.mount("/assets", StaticFiles(directory=os.path.join(frontend_dist, "assets")), name="assets")
 
-    @app.get("/")
-    async def serve_frontend():
-        return FileResponse(os.path.join(frontend_dist, "index.html"))
-
-# ← INSIRA AQUI
 @app.get("/check-frontend")
 async def check_frontend():
-    import os
     path = "/home/site/wwwroot/frontend/dist"
     return {
         "exists": os.path.exists(path),
         "files": os.listdir(path) if os.path.exists(path) else [],
         "wwwroot": os.listdir("/home/site/wwwroot")
     }
+
+@app.get("/")
+async def serve_frontend():
+    index = "/home/site/wwwroot/frontend/dist/index.html"
+    if os.path.exists(index):
+        return FileResponse(index)
+    return {"detail": "Frontend não encontrado"}
 
 # — linha 35 começa UPLOAD_DIR
 
