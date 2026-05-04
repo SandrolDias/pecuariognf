@@ -38,7 +38,7 @@ from fastapi.responses import FileResponse
 import os
 
 # Servir arquivos estáticos do frontend
-frontend_dist = os.path.join(os.path.dirname(__file__), "..", "frontend", "dist")
+frontend_dist = "/home/site/wwwroot/frontend/dist"
 if os.path.exists(frontend_dist):
     app.mount("/assets", StaticFiles(directory=os.path.join(frontend_dist, "assets")), name="assets")
 
