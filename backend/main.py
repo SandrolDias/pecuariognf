@@ -33,10 +33,6 @@ app.add_middleware(
 )
 # — linha 33 fecha o middleware
 
-from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse
-import os
-
 # Servir arquivos estáticos do frontend
 frontend_dist = "/home/site/wwwroot/frontend/dist"
 if os.path.exists(frontend_dist):
@@ -45,6 +41,17 @@ if os.path.exists(frontend_dist):
     @app.get("/")
     async def serve_frontend():
         return FileResponse(os.path.join(frontend_dist, "index.html"))
+
+# ← INSIRA AQUI
+@app.get("/check-frontend")
+async def check_frontend():
+    import os
+    path = "/home/site/wwwroot/frontend/dist"
+    return {
+        "exists": os.path.exists(path),
+        "files": os.listdir(path) if os.path.exists(path) else [],
+        "wwwroot": os.listdir("/home/site/wwwroot")
+    }
 
 # — linha 35 começa UPLOAD_DIR
 
