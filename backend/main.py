@@ -1,3 +1,6 @@
+from fastapi.staticfiles import StaticFiles
+import os
+
 from fastapi import FastAPI, UploadFile, File, HTTPException, Query, Body
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, JSONResponse
