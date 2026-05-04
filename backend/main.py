@@ -28,6 +28,10 @@ app = FastAPI(
 )
 @app.get("/versao")
 async def versao():
+    return {"versao": "teste-1"}
+
+@app.get("/versao")
+async def versao():
     return {"versao": "v4-teste-deploy"}
 
 app.add_middleware(
