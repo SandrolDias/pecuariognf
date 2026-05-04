@@ -36,7 +36,7 @@ app.add_middleware(
 )
 
 # ── Frontend (React build) ───────────────────────────────────────────────────
-FRONTEND_DIST = "/home/site/wwwroot/frontend/dist"
+FRONTEND_DIST = os.path.join(os.environ.get("APP_PATH", "/home/site/wwwroot"), "frontend", "dist")
 
 if os.path.exists(os.path.join(FRONTEND_DIST, "assets")):
     app.mount(
